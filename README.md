@@ -1,27 +1,27 @@
 
-# Homework 8 — Markdown
+# Домашнее задание № 8 — Markdown
 
-This repository contains two assignments completed in Markdown.
+В репозитории представлены два задания, выполненные с использованием языка разметки Markdown.
 
-## Contents
+## Содержание
 
-### 1. User Guide
+### 1. Пользовательская инструкция
 
-[How to Create a Document and Set Up Shared Access in Yandex Disk](user-guide.md)
+[Как создать документ и настроить совместный доступ в Яндекс Диске](user-guide.md)
 
-A step-by-step guide explaining how to create a text document, configure link sharing, invite a collaborator with editing permissions, and verify access.
+Пошаговая инструкция по созданию текстового документа, настройке доступа по ссылке, приглашению соавтора с правом редактирования и проверке предоставленного доступа.
 
-The guide includes 11 screenshots illustrating the process.
+Инструкция сопровождается 11 скриншотами, иллюстрирующими основные этапы работы.
 
-### 2. News Article
+### 2. Новостная статья
 
-[Read the News Article](news.md)
+[Прочитать новостную статью](news.md)
 
-A news article formatted using Markdown.
+Новостная статья о появлении корзины для удалённых пользователей в VK WorkSpace.
 
-## File Structure
+## Структура репозитория
 
-- `README.md` — repository overview.
-- `user-guide.md` — step-by-step user guide.
-- `news.md` — news article.
-- `images/` — screenshots for the user guide.
+- `README.md` — описание и содержание репозитория.
+- `user-guide.md` — пошаговая пользовательская инструкция.
+- `news.md` — новостная статья.
+- `images/` — скриншоты к пользовательской инструкции.
